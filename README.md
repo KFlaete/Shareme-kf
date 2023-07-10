@@ -1,6 +1,7 @@
 # Welcome to Shareme
 
 This is a full stack social media application created with React (frontend), Tailwind (frontend) and Sanity (backend).
+
 Link to the website created: https://sharemekf.netlify.app/
 
 ## Available Scripts
